@@ -1,3 +1,6 @@
 [submodule "lib/ds-test"]
 	path = lib/ds-test
 	url = https://github.com/dapphub/ds-test
+[submodule "lib/indexed-sparse-merkle-tree"]
+	path = lib/indexed-sparse-merkle-tree
+	url = https://github.com/rugpullindex/indexed-sparse-merkle-tree
